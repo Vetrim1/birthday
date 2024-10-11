@@ -298,6 +298,6 @@ body {
   -webkit-line-clamp: 8;
   -webkit-box-orient: vertical;  
   overflow: hidden;
-  width: 60%;
+  width: 80%;
   margin: 0 auto;
 }
